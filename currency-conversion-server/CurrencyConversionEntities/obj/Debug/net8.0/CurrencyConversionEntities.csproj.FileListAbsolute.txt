@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\CurrencyConversionEntities\bin\Debug\net8.0\CurrencyConversionEntities.deps.json
+C:\Users\USER\source\repos\CurrencyConversionEntities\bin\Debug\net8.0\CurrencyConversionEntities.dll
+C:\Users\USER\source\repos\CurrencyConversionEntities\bin\Debug\net8.0\CurrencyConversionEntities.pdb
+C:\Users\USER\source\repos\CurrencyConversionEntities\obj\Debug\net8.0\CurrencyConversionEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\CurrencyConversionEntities\obj\Debug\net8.0\CurrencyConversionEntities.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\CurrencyConversionEntities\obj\Debug\net8.0\CurrencyConversionEntities.AssemblyInfo.cs
+C:\Users\USER\source\repos\CurrencyConversionEntities\obj\Debug\net8.0\CurrencyConversionEntities.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CurrencyConversionEntities\obj\Debug\net8.0\CurrencyConversionEntities.dll
+C:\Users\USER\source\repos\CurrencyConversionEntities\obj\Debug\net8.0\refint\CurrencyConversionEntities.dll
+C:\Users\USER\source\repos\CurrencyConversionEntities\obj\Debug\net8.0\CurrencyConversionEntities.pdb
+C:\Users\USER\source\repos\CurrencyConversionEntities\obj\Debug\net8.0\ref\CurrencyConversionEntities.dll

@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\CurrencyConversionDL\bin\Debug\net8.0\CurrencyConversionDL.deps.json
+C:\Users\USER\source\repos\CurrencyConversionDL\bin\Debug\net8.0\CurrencyConversionDL.dll
+C:\Users\USER\source\repos\CurrencyConversionDL\bin\Debug\net8.0\CurrencyConversionDL.pdb
+C:\Users\USER\source\repos\CurrencyConversionDL\obj\Debug\net8.0\CurrencyConversionDL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\CurrencyConversionDL\obj\Debug\net8.0\CurrencyConversionDL.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\CurrencyConversionDL\obj\Debug\net8.0\CurrencyConversionDL.AssemblyInfo.cs
+C:\Users\USER\source\repos\CurrencyConversionDL\obj\Debug\net8.0\CurrencyConversionDL.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CurrencyConversionDL\obj\Debug\net8.0\CurrencyConversionDL.dll
+C:\Users\USER\source\repos\CurrencyConversionDL\obj\Debug\net8.0\refint\CurrencyConversionDL.dll
+C:\Users\USER\source\repos\CurrencyConversionDL\obj\Debug\net8.0\CurrencyConversionDL.pdb
+C:\Users\USER\source\repos\CurrencyConversionDL\obj\Debug\net8.0\ref\CurrencyConversionDL.dll
